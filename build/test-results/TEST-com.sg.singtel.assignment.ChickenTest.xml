@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.sg.singtel.assignment.ChickenTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-07-08T10:22:28" hostname="pookar" time="0.003">
+<testsuite name="com.sg.singtel.assignment.ChickenTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-07-08T10:44:19" hostname="pookar" time="0.001">
   <properties/>
-  <testcase name="testChicken_FlyBehaviour" classname="com.sg.singtel.assignment.ChickenTest" time="0.001"/>
-  <testcase name="testChickenSingling" classname="com.sg.singtel.assignment.ChickenTest" time="0.001"/>
+  <testcase name="testChicken_FlyBehaviour" classname="com.sg.singtel.assignment.ChickenTest" time="0.0"/>
+  <testcase name="testChickenSingling" classname="com.sg.singtel.assignment.ChickenTest" time="0.0"/>
   <system-out><![CDATA[Can not Fly
 Cluck, cluck
 ]]></system-out>

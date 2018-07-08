@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.sg.singtel.assignment.DuckTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-07-08T10:22:28" hostname="pookar" time="0.002">
+<testsuite name="com.sg.singtel.assignment.DuckTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-07-08T10:44:19" hostname="pookar" time="0.001">
   <properties/>
   <testcase name="testChickenSingling" classname="com.sg.singtel.assignment.DuckTest" time="0.001"/>
-  <testcase name="testChicken_SwimBehaviour" classname="com.sg.singtel.assignment.DuckTest" time="0.001"/>
+  <testcase name="testChicken_SwimBehaviour" classname="com.sg.singtel.assignment.DuckTest" time="0.0"/>
   <system-out><![CDATA[Quack quack
 Swimming Duck
 ]]></system-out>
