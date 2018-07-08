@@ -1,4 +1,7 @@
-﻿﻿## The design principle's used to solve these problems
+# Git Repo General Instruction
+
+
+## The design principle's used to solve these problems
 1. Program for Interface
 1. Favor composition over inheritance 
 1. Strategy design Pattern is used extensively 
