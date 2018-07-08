@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.sg.singtel.assignment.FishTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-07-08T08:35:10" hostname="pookar" time="0.0">
-  <properties/>
-  <testcase name="testFish_SwimBehaviour" classname="com.sg.singtel.assignment.FishTest" time="0.0"/>
-  <system-out><![CDATA[Swimming Fish
-]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
