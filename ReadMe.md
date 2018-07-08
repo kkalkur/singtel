@@ -6,7 +6,7 @@
  ---
 The following class diagram explains the over all design 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/kkalkur/singtel/blob/master/AnimalClassDiagram.jpg "Logo Title Text 1")
 
 All the behaviors of animals such as FlyBehaviour, SingBehaviour  are separated and **capsulated** into a separate interface . 
 
