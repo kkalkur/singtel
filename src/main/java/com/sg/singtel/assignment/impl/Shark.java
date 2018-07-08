@@ -8,8 +8,9 @@ public class Shark extends Fish {
 		this.Size= Size.LARGE;
 	}
 	
-	public void eat(Fish fish){
+	public String eat(Fish fish){
 		System.out.println(EAT_RESULT);
+		return EAT_RESULT;
 	}
 	
 	

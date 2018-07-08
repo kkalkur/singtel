@@ -29,8 +29,8 @@ public class ChickenTest {
    
    @Test
    public void testChicken_FlyBehaviour(){
-   	String singResult = testChicken.fly();
-   	assertEquals("Sucess",FLY_EXPECTED_RESULT,singResult);
+   	String flyResult = testChicken.fly();
+   	assertEquals("Sucess",FLY_EXPECTED_RESULT,flyResult);
    	
    }
 
